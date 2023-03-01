@@ -1,0 +1,41 @@
+.main-container {
+  height: 100vh;
+  background-color: #152850;
+}
+
+.logo-container {
+  background-color: #152850;
+  height: 120px;
+  display: flex;
+  padding-left: 80px;
+  align-items: center;
+  padding-right: 80px;
+  justify-content: space-between;
+}
+
+.logout-btn {
+  height: 30px;
+  width: 80px;
+  background-color: transparent;
+  color: #ffffff;
+  border-color: #c3cad9;
+  border-radius: 12px;
+  border-width: 5px;
+}
+
+.card-container {
+  text-align: center;
+  background-color: #152850;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.card-image {
+  height: 300px;
+  width: 500px;
+}
